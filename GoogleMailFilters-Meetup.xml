@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:1416343143230,1476646081087</id>
+	<updated>2016-10-17T11:08:53Z</updated>
+	<author>
+		<name>Lars Kruse</name>
+		<email>lak@praqma.net</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1476941914669</id>
+		<updated>2016-10-20T05:40:30Z</updated>
+		<content></content>
+		<apps:property name='from' value='info@meetup.com'/>
+		<apps:property name='doesNotHaveTheWord' value='&quot;selected you to be&quot; | &quot;Your Meetup has been scheduled&quot;'/>
+		<apps:property name='label' value='Notification/Meetup'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1476941914669</id>
+		<updated>2016-10-20T05:40:30Z</updated>
+		<content></content>
+		<apps:property name='from' value='messages@meetup.com'/>
+		<apps:property name='label' value='Notification/Meetup'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1476941914669</id>
+		<updated>2016-10-20T05:40:30Z</updated>
+		<content></content>
+		<apps:property name='from' value='info@meetup.com'/>
+		<apps:property name='hasTheWord' value='&quot;selected you to be&quot; | &quot;Your Meetup has been scheduled&quot;'/>
+		<apps:property name='label' value='Mention'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1476646081087</id>
+		<updated>2016-10-17T11:08:53Z</updated>
+		<content></content>
+		<apps:property name='from' value='billingsupport@meetup.com'/>
+		<apps:property name='label' value='Billing'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='forwardTo' value='accounting@praqma.net'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>

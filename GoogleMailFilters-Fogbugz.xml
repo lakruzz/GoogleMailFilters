@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:1334951245487,1353310768999,1353312383724</id>
+	<updated>2016-10-16T20:17:23Z</updated>
+	<author>
+		<name>Lars Kruse</name>
+		<email>lak@praqma.net</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1334951245487</id>
+		<updated>2016-10-16T20:17:23Z</updated>
+		<content></content>
+		<apps:property name='from' value='support@praqma.net | fogbugz@praqma.net | do-not-reply@praqma.fogbugz.com'/>
+		<apps:property name='hasTheWord' value='&quot;A case has been resolved and assigned to you in FogBugz&quot;'/>
+		<apps:property name='label' value='Fogbugz/Resolved'/>
+		<apps:property name='shouldArchive' value='true'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1353312383724</id>
+		<updated>2016-10-16T20:17:23Z</updated>
+		<content></content>
+		<apps:property name='from' value='support@praqma.net | fogbugz@praqma.net | do-not-reply@praqma.fogbugz.com'/>
+		<apps:property name='label' value='Fogbugz'/>
+		<apps:property name='shouldArchive' value='true'/>
+	</entry>
+</feed>

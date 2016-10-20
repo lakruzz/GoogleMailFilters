@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:1337502154014,1353312747085,1445870921115</id>
+	<updated>2016-10-20T06:49:03Z</updated>
+	<author>
+		<name>Lars Kruse</name>
+		<email>lak@praqma.net</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1337502154014</id>
+		<updated>2016-10-20T06:49:03Z</updated>
+		<content></content>
+		<apps:property name='from' value='noreply@jenkins-ci.org'/>
+		<apps:property name='label' value='Notification/Jenkins'/>
+		<apps:property name='shouldArchive' value='true'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1353312747085</id>
+		<updated>2016-10-20T06:49:03Z</updated>
+		<content></content>
+		<apps:property name='to' value='events@lists.jenkins-ci.org'/>
+		<apps:property name='label' value='Notification/Jenkins Events'/>
+		<apps:property name='shouldArchive' value='true'/>
+	</entry>
+</feed>

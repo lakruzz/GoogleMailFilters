@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:1405507167015</id>
+	<updated>2016-10-17T08:22:54Z</updated>
+	<author>
+		<name>Lars Kruse</name>
+		<email>lak@praqma.net</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1405507167015</id>
+		<updated>2016-10-17T08:22:54Z</updated>
+		<content></content>
+		<apps:property name='from' value='notify@google.com | @plus.google.com'/>
+		<apps:property name='label' value='Notification/Google'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1405507167015</id>
+		<updated>2016-10-17T08:22:54Z</updated>
+		<content></content>
+		<apps:property name='from' value='calendar-notification@google.com'/>
+		<apps:property name='label' value='Notification/Google'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1405507167015</id>
+		<updated>2016-10-17T08:22:54Z</updated>
+		<content></content>
+		<apps:property name='from' value='googlealerts-noreply@google.com'/>
+		<apps:property name='label' value='Notification/GoogleAlerts'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry></feed>

@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:1476648296954,1476648297473,1476648297939,1476648298551,1476648296452,1476648295894,1476648299104</id>
+	<updated>2016-10-16T20:07:33Z</updated>
+	<author>
+		<name>Lars Kruse</name>
+		<email>lak@praqma.net</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1476639142808</id>
+		<updated>2016-10-16T19:00:47Z</updated>
+		<content></content>
+		<apps:property name='to' value='accounting@praqma.net | accounting@praqma.com'/>
+		<apps:property name='label' value='Accounting'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1476648295894</id>
+		<updated>2016-10-16T20:07:33Z</updated>
+		<content></content>
+		<apps:property name='from' value='@praqma.net | @praqma.com !support@praqma.net !lak@praqma.net'/>
+		<apps:property name='label' value='Praqma'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1476648296452</id>
+		<updated>2016-10-16T20:07:33Z</updated>
+		<content></content>
+		<apps:property name='to' value='praqma-all@praqma.net | praqma-all@praqma.com'/>
+		<apps:property name='label' value='Praqma-ALL'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1476648296954</id>
+		<updated>2016-10-16T20:07:33Z</updated>
+		<content></content>
+		<apps:property name='to' value='jobs@praqma.net | jobs@praqma.com'/>
+		<apps:property name='label' value='Praqma/Jobs'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1476648297473</id>
+		<updated>2016-10-16T20:07:33Z</updated>
+		<content></content>
+		<apps:property name='to' value='info@praqma.net | info@praqma.com'/>
+		<apps:property name='label' value='Praqma/Info'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1476648297939</id>
+		<updated>2016-10-16T20:07:33Z</updated>
+		<content></content>
+		<apps:property name='from' value='news@praqma.net'/>
+		<apps:property name='label' value='Praqma/News Letter'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1476648298551</id>
+		<updated>2016-10-16T20:07:33Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='cc:me'/>
+		<apps:property name='label' value='CC&apos;ed'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1476648299104</id>
+		<updated>2016-10-16T20:07:33Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='bcc:me'/>
+		<apps:property name='label' value='BCC&apos;ed'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>

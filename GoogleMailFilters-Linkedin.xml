@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:1416354332520,1445870672046,1445870788939,1476643925184</id>
+	<updated>2016-10-17T07:02:59Z</updated>
+	<author>
+		<name>Lars Kruse</name>
+		<email>lak@praqma.net</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1416354332520</id>
+		<updated>2016-10-17T07:02:59Z</updated>
+		<content></content>
+		<apps:property name='from' value='news@linkedin.com'/>
+		<apps:property name='label' value='Notification/Linkedin'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1445870672046</id>
+		<updated>2016-10-17T07:02:59Z</updated>
+		<content></content>
+		<apps:property name='from' value='connections@linkedin.com'/>
+		<apps:property name='label' value='Notification/LinkedIn'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1445870788939</id>
+		<updated>2016-10-17T07:02:59Z</updated>
+		<content></content>
+		<apps:property name='from' value='group-digests@linkedin.com | group-digest@linkedin.com'/>
+		<apps:property name='label' value='Notification/LinkedIn'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1476643925184</id>
+		<updated>2016-10-17T07:02:59Z</updated>
+		<content></content>
+		<apps:property name='from' value='groups-noreply@linkedin.com'/>
+		<apps:property name='label' value='Notification/LinkedIn'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1476643925184</id>
+		<updated>2016-10-17T07:02:59Z</updated>
+		<content></content>
+		<apps:property name='from' value='messages-noreply@linkedin.com'/>
+		<apps:property name='label' value='Notification/LinkedIn'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+
+</feed>

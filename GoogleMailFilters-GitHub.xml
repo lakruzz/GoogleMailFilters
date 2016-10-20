@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:1445870823303,1445872700919,1460490615610,1461177609238,1476646080573</id>
+	<updated>2016-10-17T09:15:08Z</updated>
+	<author>
+		<name>Lars Kruse</name>
+		<email>lak@praqma.net</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1445870823303</id>
+		<updated>2016-10-17T09:15:08Z</updated>
+		<content></content>
+		<apps:property name='from' value='noreply@github.com'/>
+		<apps:property name='label' value='Notification/Github'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1445872700919</id>
+		<updated>2016-10-17T09:15:08Z</updated>
+		<content></content>
+		<apps:property name='from' value='notifications@github.com'/>
+		<apps:property name='hasTheWord' value='&#64;lakruzz'/>
+		<apps:property name='label' value='Mention'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1445872700919</id>
+		<updated>2016-10-17T09:15:08Z</updated>
+		<content></content>
+		<apps:property name='from' value='notifications@github.com'/>
+	  <apps:property name='doesNotHaveTheWord' value='&#64;lakruzz'/>
+		<apps:property name='label' value='Notification/Github'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1460490615610</id>
+		<updated>2016-10-17T09:15:08Z</updated>
+		<content></content>
+		<apps:property name='from' value='notifications@github.com'/>
+		<apps:property name='hasTheWord' value='closed'/>
+		<apps:property name='label' value='closed'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1476646080573</id>
+		<updated>2016-10-17T09:15:08Z</updated>
+		<content></content>
+		<apps:property name='from' value='support@github.com'/>
+		<apps:property name='hasTheWord' value='&quot;We received payment for your GitHub.com subscription&quot;'/>
+		<apps:property name='label' value='Billing'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='forwardTo' value='accounting@praqma.net'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>
