@@ -1,7 +1,5 @@
 ---
-maintainer:
-  - lakruzz
-  - buep
+maintainer:lakruzz
 ---
 
 # GoogleMailFilters
