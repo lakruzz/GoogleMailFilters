@@ -1,6 +1,6 @@
 ---
 maintainer:
-  -lakruzz
+  - lakruzz
   - buep
 ---
 # GoogleMailFilters
