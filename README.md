@@ -1,13 +1,13 @@
 ---
-maintainer: 
- - lakruzz
- - buep
+maintainer: lakruzz
 ---
 
 # GoogleMailFilters
 My Google mail filters - as code
 
 These are my mail filters that I use to keep my mailbox tidy.
+
+---
 
 I get roughly 150 mails per day, most of them are notifications from collaboration platforms that I'm using: GitHub, Google, Twitter, Slack, Meetup, Trello, Fogbugz, Linkedin...
 
@@ -16,6 +16,8 @@ I classify theses as _Notifications_ meaning that the all information I get from
 Filters in this repo are `xml` and they are all initially created simply by making the filter in my Google mail (`setting -> Filters and blocked addresses -> ...`) and then exporting it.
 
 I've created individual files for each individual source I'm filtering on. This way the filters might prove more useful to others as well - Each file may contain more than one filter, but they are then all related to the same source.
+
+---
 
 ## The rationale
 
